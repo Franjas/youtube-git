@@ -8,3 +8,4 @@
 6- git log (para ver todos los commit)
 7- git commit --amend (para corregir nombre del último commit)
 8- git checkout -b nombredelarama (para agregar una rama)
+git checkout master
